@@ -1,13 +1,19 @@
-# Lulu Cheng Marketing
+# Lulu Cheng · 营销 Skill
 
+> *传播是让正确的受众相信正确的事，并因此行动。*
 
-> 传播是让正确的受众相信正确的事，并因此行动。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[Agent Skills](https://agentskills.io)
+[Made with Nuwa Skill](https://github.com/alchaincyf/nuwa-skill)
 
 
 大多数营销从渠道、爆款、标题方面给出建议，但这往往是在更大声地传播一个不够重要的信息。
 
-`lulu-cheng-marketing` 基于硅谷传播与公关的顶级大神 [Lulu Cheng Meservey](https://www.linkedin.com/in/lulu-cheng-meservey/) 的公开访谈与文章，提炼出一套可执行的 Skill，帮助创始人、PM、营销人和内容创作者看清要传播的信息，如何吸引注意力，如何讲好产品故事。
+`lulu-cheng-marketing` 基于硅谷**传播与公关**的顶级大神 [Lulu Cheng Meservey](https://www.linkedin.com/in/lulu-cheng-meservey/) 的公开访谈与文章，提炼出一套可执行的 Skill，帮助创始人、PM、营销人和内容创作者看清要传播的信息，如何吸引注意力，如何讲好产品故事。
 
+[你会得到什么](#你会得到什么) · [安装](#安装方式) · [效果示例](#效果示例) · [研究来源](#一手信息来源)
+
+---
 
 ## 你会得到什么
 
@@ -17,21 +23,64 @@
 - **发布判断：** 选择正确的发言人、渠道与由内向外的发布顺序
 - **争议分诊：** 判断何时该回应、何时应先核实、何时不该放大噪声
 
+<br>
+
 ## 适合的场景
 
 如果你正在问以下任一问题，这个 Skill 值得安装：
 
-- “产品明明不错，为什么没人真正理解？”
-- “怎样让客户、候选人、合作伙伴相信并行动？”
-- “怎么吸引注意力，但不沦为标题党？”
-- “复杂产品、创始人故事或发布信息，到底该怎么讲？”  
+💡 产品明明不错，为什么没人真正理解？
+💡 怎么吸引注意力，但不沦为标题党？
+💡 复杂产品、创始人故事或发布信息，到底该怎么讲？
 
 *当请求涉及文案优化、重写、翻译改写、标题或钩子时，Skill 会先问一个会实质影响结果的问题；只有用户明确要求“直接改”时才跳过。
 *适用于内容营销与传播，不适用于SEO技术优化相关。
 
+<br>
+
+## 核心框架
+
+
+### 1. 从业务结果倒推传播
+
+```text
+业务目标 → 关键行动 → 目标受众 → 所需信念 → 传播任务
+```
+
+不从“上什么节目”“发什么平台”“如何爆款”开始。先明确：谁要做什么、为什么会做。
+
+### 2. Message → Medium → Messenger
+
+先打磨值得传播的信息，再选择受众实际出现的媒介，最后找最有资格讲这句话的人。
+
+### 3. 吸引注意力的 X → Y 受众桥
+
+从受众已经在意、焦虑或讨论的 `X` 出发，诚实地连接到你希望他们理解的 `Y`。没有真实的桥，就不要硬蹭热点。
+
+### 4. 把故事变成行动
+
+用具体人物的欲望、阻碍、选择、结果与意义替代抽象形容词；再通过复述测试确认受众记住的是正确的核心真相。
+
+<br>
+
+## 安装方式
+
+### Claude Code
+
+```bash
+mkdir -p ~/.claude/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.claude/skills/lulu-cheng-marketing
+```
+### Codex
+
+```bash
+mkdir -p ~/.agents/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.agents/skills/lulu-cheng-marketing
+```
+
+<br>
+
 ## 效果示例
 
-下面是一次真实对话记录，以一个日记类app为例，展示 Skill 如何先澄清业务结果、受众和关键行动，再给出策略建议。
+下面是一次真实对话记录，以一个日记类app为例，展示 Skill 的能力。
 
 > **👤 用户**
 >
@@ -39,9 +88,11 @@
 
 **🤖 Agent**
 
+```text
 这是一个策略型问题，我会先从业务结果倒推，而不是先给渠道清单。
 
 你们这次营销最希望促成的一个具体结果是什么——例如首批付费客户、试用注册、预约演示、融资关注，还是招聘？
+```
 
 > **👤 用户**
 >
@@ -49,9 +100,11 @@
 
 **🤖 Agent**
 
+```text
 新用户是结果；下一步要确定最值得先赢下的那一类人。
 
 你们的产品解决什么问题，最希望哪类人注册并完成什么关键动作（例如创建项目、邀请同事、完成首次任务或付费）？
+```
 
 > **👤 用户**
 >
@@ -59,9 +112,11 @@
 
 **🤖 Agent**
 
+```text
 受众已经很清楚：忙碌但重视生活质感、记录与表达的白领。
 
 他们注册后，最希望完成的关键动作是什么——立刻写下第一篇日记、连续记录 7 天、导入旧日记，还是邀请朋友？
+```
 
 > **👤 用户**
 >
@@ -69,6 +124,7 @@
 
 **🤖 Agent**
 
+```text
 营销的首要任务不是让白领“下载一个日记 App”，而是让他们相信：**忙碌不该吞掉生活；写下第一条，才能把今天还给自己。**
 
 基于目前信息，我会这样启动。
@@ -94,15 +150,15 @@
 - “成年人最容易丢的，不是时间，是对自己生活的记忆。”
 ...
 
-
 **故事怎么讲**
 
 不要说“我们提供极简、沉浸式的记录体验”。讲一个具体时刻：
 
-> 晚上回到家，打开手机，发现今天开了六个会、回了几十条消息，却说不出自己今天到底感觉如何。  
 > 写下第一句，不是为了把生活管理得更好，而是为了不让这一天完全过去。
 
-创始人讲“为什么不能让生活只剩待办事项”；真实用户讲“我写下第一条后留下了什么”。前者负责叙事，后者负责证明。
+创始人讲“为什么不能让生活只剩待办事项”；
+真实用户讲“我写下第一条后留下了什么”。
+前者负责叙事，后者负责证明。
 
 **发布顺序：先形成小范围的真实复述，再扩散**
 
@@ -113,59 +169,20 @@
 5. 等用户能复述“这是帮我留住生活，而不是逼我自律的日记 App”后，再扩大渠道。
 
 先验证三件事：用户是否愿意立刻写第一条、他们如何用自己的话描述价值、哪一种“忙碌中失去生活感”的瞬间最能促成注册。若这三项没有成立，不要急着加投放；先修正信息与首次记录体验。
-
-
-## 核心框架
-
-### 1. 从业务结果倒推传播
-
-```text
-业务目标 → 关键行动 → 目标受众 → 所需信念 → 传播任务
 ```
 
-不从“上什么节目”“发什么平台”“如何爆款”开始。先明确：谁要做什么、为什么会做。
-
-### 2. Message → Medium → Messenger
-
-先打磨值得传播的信息，再选择受众实际出现的媒介，最后找最有资格讲这句话的人。
-
-### 3. 吸引注意力的 X → Y 受众桥
-
-从受众已经在意、焦虑或讨论的 `X` 出发，诚实地连接到你希望他们理解的 `Y`。没有真实的桥，就不要硬蹭热点。
-
-### 4. 把故事变成行动
-
-用具体人物的欲望、阻碍、选择、结果与意义替代抽象形容词；再通过复述测试确认受众记住的是正确的核心真相。
-
-
-
-## 安装方式
-
-### Claude Code
-
-```bash
-mkdir -p ~/.claude/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.claude/skills/lulu-cheng-marketing
-```
-
-
-### Codex
-
-```bash
-mkdir -p ~/.agents/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.agents/skills/lulu-cheng-marketing
-```
-
-
+<br>
 
 ## 一手信息来源
 
-以下是本 Skill 使用的一手信息来源，详细内容与方法边界见 [`references/research/`](./references/research/)。
+
+以下是本 Skill 使用的一手信息来源，详细内容与方法边界见 `[references/research/](./references/research/)`。
 
 ### Lulu Cheng写的文章
 
 - [Go Direct: The Manifesto](https://www.getflack.com/p/go-direct-the-manifesto)
 - [Comms Foundation #2: Tactics](https://www.getflack.com/p/tactics)
 - [Build your fanbase using the K-pop method](https://www.getflack.com/p/fandom)
-
 
 ### 视频访谈
 
@@ -175,12 +192,12 @@ mkdir -p ~/.agents/skills && git clone https://github.com/jmtom-io/lulu-cheng-ma
 - [The Comms Strategist Behind Anduril, Shopify & Cognition — David Senra](https://www.youtube.com/watch?v=DFImJfJGXl0)
 - [Helping Founders Go Direct in a New Era of PR & Comms — Uncapped / Jack Altman](https://www.youtube.com/watch?v=GRoU1T4E9rQ&t=22s)
 
-
+<br>
 
 ## 本Skill的制作方法
 
 用 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成，并进行了一些调整。
 
 ---
-
-如果觉得有用，请点点 **Star** 表示支持⭐️
+<br>
+⭐️ 如果觉得这个项目有用，请点点 Star 表示支持 ⭐️
