@@ -142,16 +142,14 @@
 ### Claude Code
 
 ```bash
-git clone https://github.com/<OWNER>/lulu-cheng-marketing.git \
-  ~/.claude/skills/lulu-cheng-marketing
+mkdir -p ~/.claude/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.claude/skills/lulu-cheng-marketing
 ```
 
 
 ### Codex
 
 ```bash
-git clone https://github.com/<OWNER>/lulu-cheng-marketing.git \
-  ~/.agents/skills/lulu-cheng-marketing
+mkdir -p ~/.agents/skills && git clone https://github.com/jmtom-io/lulu-cheng-marketing.git ~/.agents/skills/lulu-cheng-marketing
 ```
 
 
