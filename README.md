@@ -1,17 +1,22 @@
-# Lulu Cheng · 营销 Skill
+<div align="center">
 
-> *传播是让正确的受众相信正确的事，并因此行动。*
+<h1>Lulu Cheng · 营销 Skill</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[Agent Skills](https://agentskills.io)
-[Made with Nuwa Skill](https://github.com/alchaincyf/nuwa-skill)
+<p><em>传播是让正确的受众相信正确的事，并因此行动。</em></p>
 
+<p>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://agentskills.io"><img src="https://img.shields.io/badge/Agent%20Skills-Standard-4C9F38.svg" alt="Agent Skills Standard"></a>
+  <a href="https://github.com/alchaincyf/nuwa-skill"><img src="https://img.shields.io/badge/Made%20with-%E5%A5%B3%E5%A8%B2.skill-E86E38.svg" alt="Made with 女娲.skill"></a>
+</p>
 
-大多数营销从渠道、爆款、标题方面给出建议，但这往往是在更大声地传播一个不够重要的信息。
+<p>大多数营销从渠道、爆款、标题方面给出建议，但这往往是在更大声地传播一个不够重要的信息。</p>
 
-`lulu-cheng-marketing` 基于硅谷**传播与公关**的顶级大神 [Lulu Cheng Meservey](https://www.linkedin.com/in/lulu-cheng-meservey/) 的公开访谈与文章，提炼出一套可执行的 Skill，帮助创始人、PM、营销人和内容创作者看清要传播的信息，如何吸引注意力，如何讲好产品故事。
+<p><code>lulu-cheng-marketing</code> 基于硅谷<strong>传播与公关</strong>的顶级大神 <a href="https://www.linkedin.com/in/lulu-cheng-meservey/">Lulu Cheng Meservey</a> 的公开访谈与文章，提炼出一套可执行的 Skill，帮助创始人、PM、营销人和内容创作者看清要传播的信息，如何吸引注意力，如何讲好产品故事。</p>
 
-[你会得到什么](#你会得到什么) · [安装](#安装方式) · [效果示例](#效果示例) · [研究来源](#一手信息来源)
+<p><a href="#你会得到什么">你会得到什么</a> · <a href="#安装方式">安装</a> · <a href="#效果示例">效果示例</a> · <a href="#一手信息来源">研究来源</a></p>
+
+</div>
 
 ---
 
