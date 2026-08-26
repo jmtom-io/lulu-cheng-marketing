@@ -1,0 +1,57 @@
+
+
+- source: https://www.youtube.com/watch?v=I9Njb8Lw5Xc&t=792s
+- Take aways:
+
+
+- 找到你想表达的 和 观众cares about的，中间overlap的部分，作为hook
+- 先用hook吸引到people，后面再展示你的brand，你想表达的(没有overlap的那部分）
+    - hook >>> where you tell (blog,podcast…)
+- 视频只有前5s的时间来吸引观众，文字是first line, first sentence.
+- so hook 要more more sharp.
+- hook用什么：humor, curiosity, strong emotion (wow, WTF, shock), learn sth they’re following
+- be interesting **to whom**
+    - 找到你目标人群的interest，= less interest to people you don’t care.
+- 说服的方式：
+    - have person you trust with total confidence, 说that’s gonna happen，然后repeat again and again
+        - 必须的两点：people you trust, **with total confidence**
+- affect heuristic 情意捷径：在决策过程中，个体依赖即时的情感反应或直觉感受，而非系统的认知分析来做出判断的心理捷径
+- how to engineer trust
+    - repeated exposure: you won’t trust strangers.（想到了频繁地公开表达，让自己不是stranger）
+    - shared baseline of value：找到共同的观念, start with agree
+- show up to defend yourself, your people: 建立deterrence
+- 创始人面对attack要怎么做
+    - 1, is it reaching people that matter? 会有damage吗？
+    - 2, attack是实质性material的吗，是actual accusation吗
+    - 3, aggressive 反击
+- one death is tragedy，1m death is statistic
+    - 一个具体的人，specific story，会比一个统计数据的上涨更powerful
+    - fight stories with stories
+- being first, 在对方攻击你之前先发言，先反驳
+- 创始人需要暴露在争论的环境里
+    - 才能保持sharp, smart，prepared
+    - 可以先从trust的人开始
+- pressure = F/A，（和你一起承担的）area越大，P越小，而不是改变F
+- make story different:
+    - what is the message，你到底想convince什么core truth?
+    - what is the right media? who are you talking to?
+    - messager，载体, 发言人还是自己上？
+- CEO’s job: weigh balance of interest, 达成net optimal for company.
+- use normal, common words **with very clear meaning**
+- be funny, can keep attention
+- Halo effect: 光环效应
+    - 用对一个人 点 的判断，to draw outsized conclusions
+    - for company，人们have to use proxy，去判断你的公司是否值得trust
+        - eg, ceo-human, 比如Chris Best, substack, 支持去中心化的言论, → so conclude substack wont sell private data
+- cheerleader effect 啦啦队效应
+    - very true of founders and companies
+    - eg, a founder 站在sam altman, garry tan之间，就显得很impressive
+- there’s a very small number of things that people actually retain about us
+    - 不是因为他们stupid, 只是因为they dont hold many things in their mind
+    - 甚至steve jobs这样的名人，你能记住的部分也很少
+    - so，在职场上，present proof point and foster that（感觉面试也同样适用，anything you want in life）
+        - 首先考虑，谁是影响你的关键人物？whose permission you need? ceo, board, team colleague…
+        - next，what the audience need to believe about u, 才有利于你？vision for company…
+        - how to convey 这些点 to them? make memos, start a new initiative in your team, roll out campaign, work together with them, how you speak to them…
+    - for founders, you’re a product for certain consumers, eg investmen, users..
+    - you’re a product, and you’re selling to a certain consumer.
