@@ -1,5 +1,5 @@
 ---
-name: lulu-cheng-marketing
+name: lulu-cheng-skill
 description: |
   基于 Lulu Cheng Meservey 一手访谈与文章提炼的创始人主导传播、注意力与故事方法论。
   用于需要改变特定受众行为的传播判断：制定叙事/发布策略、选择关键受众、媒介与发言人、设计内容钩子，或回应影响业务的争议。
