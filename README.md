@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Lulu Cheng · 营销 Skill</h1>
+<h1>Lulu Cheng.skill</h1>
 
 <p><em>传播是让正确的受众相信正确的事，并因此行动。</em></p>
 
